@@ -1,0 +1,1 @@
+Create conda environment using the following command:  conda create --name <Name> --file requirements.txt
