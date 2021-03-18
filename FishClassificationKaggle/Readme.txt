@@ -2,7 +2,7 @@ Dataset taken from Kaggle: https://www.kaggle.com/crowww/a-large-scale-fish-data
 
 Reproduce:
 1. Download the dataset to your Google drive.
-2. Edit the notebook and set the database path accordingly.
+2. Edit the notebook and set the dataset path accordingly.
 
 
 @inproceedings{ulucan2020large,
