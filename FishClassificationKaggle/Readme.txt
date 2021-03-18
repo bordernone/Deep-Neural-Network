@@ -1,5 +1,7 @@
 Dataset taken from Kaggle: https://www.kaggle.com/crowww/a-large-scale-fish-dataset
 
+Using CNN on PyTorch to classify fishes. 
+
 Reproduce:
 1. Download the dataset to your Google drive.
 2. Edit the notebook and set the dataset path accordingly.
